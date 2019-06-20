@@ -1,5 +1,5 @@
 
-# Module 5 Final Project - Supervised Learning
+# Module 5 Final Project
 
 
 ## Introduction
