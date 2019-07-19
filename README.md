@@ -72,7 +72,7 @@ Your completed should contain the following deliverables:
 
 1. A **_Jupyter Notebook_** containing any code you've written for this project.  
 
-2. A **_Blog Post_** explaining your problem/dataset, along with your process, methodology, and findings.  
+2. A **_Blog Post_** explaining your problem/dataset, along with your process, methodology, and findings in the project or on a technical topic you learned in the module.  
 
 3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process. 
 
@@ -96,10 +96,6 @@ For this project, your jupyter notebook should meet the following specifications
 
 ### Blog Post Must-Haves
 
-Your blog post should clearly explain your process and results, including:
-*  An explanation of the problem you're trying to solve and the dataset you choose for it
-* Well documented examples of code and visualizations (when appropriate)
+Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
 
-
-**_NOTE:_**  This blog post is your way of showcasing the work you've done on this project--chances are it will soon be read by a recruiter or hiring manager! Take the time to make sure that you craft your story well, and clearly explain your process and findings in a way that clearly shows both your technical expertise **_and_** your ability to communicate your results!
 
