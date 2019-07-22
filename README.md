@@ -23,12 +23,12 @@ All that remains for Module 5 is to complete the final project!
 
 ## The Project
 
-For this project, you're going to select a dataset of your choosing and create a classification model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question. 
+For this project, you're going to select a dataset of your choosing and create a classification model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
 
 
 ### Selecting a Data Set
 
-We encourage you to be very thoughtful when identifying your problem and selecting your data set--an overscoped project goal or a poor data set can quickly bring an otherwise promising project to a grinding halt. 
+We encourage you to be very thoughtful when identifying your problem and selecting your data set--an overscoped project goal or a poor data set can quickly bring an otherwise promising project to a grinding halt.
 
 To help you select an appropriate data set for this project, we've set some guidelines:
 
@@ -44,18 +44,18 @@ To help you select an appropriate data set for this project, we've set some guid
 
 When selecting a data set, be sure to take into consideration the following constraints:
 
-1. Your data set can't be one we've already worked with in any labs. 
+1. Your data set can't be one we've already worked with in any labs.
 2. Your data set should contain a minimum of 1000 rows.    
 3. Your data set should contain a minimum of 10 predictor columns, before any one-hot encoding is performed.   
-4. Your instructor must provide final approval on your data set. 
+4. Your instructor must provide final approval on your data set.
 
 ### Problem First, or Data First?
 
-There are two ways that you can about getting started: **_Problem-First_** or **_Data-First_**. 
+There are two ways that you can about getting started: **_Problem-First_** or **_Data-First_**.
 
-**_Problem-First_**: Start with a problem that you want to solve with classification, and then try to find the data you need to solve it.  If you can't find any data to solve your problem, then you should pick another problem. 
+**_Problem-First_**: Start with a problem that you want to solve with classification, and then try to find the data you need to solve it.  If you can't find any data to solve your problem, then you should pick another problem.
 
-**_Data-First_**: Take a look at some of the most popular internet repositories of cool data sets we've listed below. If you find a data set that's particularly interesting for you, then it's totally okay to build your problem around that data set. 
+**_Data-First_**: Take a look at some of the most popular internet repositories of cool data sets we've listed below. If you find a data set that's particularly interesting for you, then it's totally okay to build your problem around that data set.
 
 There are plenty of amazing places that you can get your data from. We recommend you start looking at data sets in some of these resources first:
 
@@ -72,9 +72,9 @@ Your completed should contain the following deliverables:
 
 1. A **_Jupyter Notebook_** containing any code you've written for this project.  
 
-2. A **_Blog Post_** explaining your problem/dataset, along with your process, methodology, and findings in the project or on a technical topic you learned in the module.  
+2. A **_[Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)_**.
 
-3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process. 
+3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
 
 
 
@@ -90,12 +90,10 @@ For this project, your jupyter notebook should meet the following specifications
 
 **_Process, Methodology, and Findings_**
 
-* Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results. 
-* We recommend you use the OSEMN process to help organize your thoughts and stay on track. 
+* Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results.
+* We recommend you use the OSEMN process to help organize your thoughts and stay on track.
 
 
 ### Blog Post Must-Haves
 
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
-
-
