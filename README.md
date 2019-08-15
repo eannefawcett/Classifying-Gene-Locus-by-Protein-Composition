@@ -68,13 +68,15 @@ There are plenty of amazing places that you can get your data from. We recommend
 
 ## The Deliverables
 
-Your completed should contain the following deliverables:
+Your completed should contain the following four deliverables:
 
-1. A **_Jupyter Notebook_** containing any code you've written for this project.  
+1. A **_Jupyter Notebook_** containing any code you've written for this project. This work will need to be pushed to your GitHub repository in order to submit your project.
 
-2. A **_[Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)_**.
+2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository. 
 
-3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
+3. A **_[Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)_**.
+
+4. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
 
 
 
@@ -97,3 +99,7 @@ For this project, your jupyter notebook should meet the following specifications
 ### Blog Post Must-Haves
 
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
+
+## Grading Rubric 
+
+Online students can find a PDF of the grading rubric [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf). On-campus students should contact their instructor.  
