@@ -68,7 +68,7 @@ There are plenty of amazing places that you can get your data from. We recommend
 
 ## The Deliverables
 
-Your completed should contain the following four deliverables:
+For online students, your completed project should contain the following four deliverables:
 
 1. A **_Jupyter Notebook_** containing any code you've written for this project. This work will need to be pushed to your GitHub repository in order to submit your project.
 
@@ -78,11 +78,11 @@ Your completed should contain the following four deliverables:
 
 4. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
 
-
+For on-campus students, please talk to your instructor for a list of required project deliverables. 
 
 ### Jupyter Notebook Must-Haves
 
-For this project, your jupyter notebook should meet the following specifications:
+For this project, your Jupyter Notebook should meet the following specifications:
 
 **_Organization/Code Cleanliness_**
 
@@ -95,11 +95,10 @@ For this project, your jupyter notebook should meet the following specifications
 * Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results.
 * We recommend you use the OSEMN process to help organize your thoughts and stay on track.
 
-
 ### Blog Post Must-Haves
 
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
 
 ## Grading Rubric 
 
-Online students can find a PDF of the grading rubric [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf). On-campus students should contact their instructor.  
+Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf). On-campus students should contact their instructor for more information.  
