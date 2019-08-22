@@ -78,7 +78,7 @@ For online students, your completed project should contain the following four de
 
 4. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
 
-For on-campus students, please talk to your instructor for a list of required project deliverables. 
+Note: On-campus students may have different deliverables, please speak with your instructor.
 
 ### Jupyter Notebook Must-Haves
 
@@ -101,4 +101,4 @@ Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/d
 
 ## Grading Rubric 
 
-Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf). On-campus students should contact their instructor for more information.  
+Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf). _Note: On-campus students may have different requirements, please speak with your instructor._ 
