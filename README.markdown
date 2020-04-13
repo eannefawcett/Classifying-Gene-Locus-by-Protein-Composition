@@ -1,10 +1,12 @@
-Hello!
+# Introduction
 
 In this repository you will find an analysis of human chromosomes. This analysis
 primarily focuses on chromosomal morphology. The point of this data science
 project is to establish whether or not protein composition affects chromosomal
 alignment and ending structure. Locus locations and amino acid information
 were used to this end.
+
+# Files
 
 The following files were used to gather data for this project.
 - amino acid abbreviations and molecular weights.pdf
@@ -69,6 +71,12 @@ and PCA worsened model performance. A grid search was used to find the best
 parameters to use for the model. Information about parameter selection in the
 grid searches can be found in the notebooks.
 
+In this modeling process, a few files were generated to assist with load times.
+- locus_19_gridsearch_best_estimator.pkl
+- locus_19_gridsearch.pkl
+- strand_19_gridsearch_best_estimator.pkl
+- strand_19_gridsearch.pkl
+
 Other files associated with this project being completed as a part of the Flatiron
 School cirriculumn are:
 - CONTRIBUTING.md
@@ -76,6 +84,26 @@ School cirriculumn are:
 - module5_project_rubric.pdf
 - smart.gif
 - student.ipynb.
+
+# Background
+
+In biochemistry, there are many phenomena in which we know little about.
+Protein formation is one of those. Proteins are the machines that allow our body
+to function daily. Our body makes proteins everyday, quite frequently. Information
+about how to make proteins is encoded in DNA. When DNA is organized it is called
+chromosomes. The only time that DNA organizes into a chromosome is when the cell
+in which the DNA is located is preparing to divide. All other times, DNA has
+no discernable structure as far as humans can tell. This chromosomal organization
+does however provide insight into various types of diseases.
+
+Currently, the only way to track DNA is by radioactively tagging it. This can
+affect the organism in which the tag is inserted. This study attempts to classify
+proteins by their location on a chromosome, something that is known, by using
+the protein's amino acid composition. This amino acid driven classifier could
+potentially provide an alternative pathway to protein study and isolation for
+the delivery of drugs.
+
+# Contact
 
 If you have additional questions or would like to discuss any of the contents,
 feel free to reach out to me either here or through my blog:
