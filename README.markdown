@@ -60,6 +60,7 @@ as seen below in Table 1.
 | MBOAT7   | 35                           |
 | TSEN34   | 34                           |
 | LILRB1   | 33                           |
+
 Table 1. Loci included in machine learning model to study Chromosome 19.
 
 From this collected data, two studies were run. One where loci classification
@@ -74,7 +75,7 @@ grid search were used to find optimal parameters for the random forest model.
 
 # Results
 
-For the loci study, a test accuracy of 99% was achieved 
+For the loci study, a test accuracy of 99% was achieved
 using the random forest classifier. For the strand study, the best performing
 model was the bagged classifier, with a test accuracy of 72%. While the strand
 study could use additional optimization, the loci study appears to be completed.
