@@ -24,6 +24,11 @@ the protein's amino acid composition. This amino acid driven classifier could
 potentially provide an alternative pathway to protein study and isolation for
 the delivery of drugs.
 
+The type of information being focused on in this project are below in Figure 1.
+
+<img src='/reports/figures/all 20 labels for chromosome 19 word cloud.png' alt='word cloud for selected loci evaluated on chromosome 19'>
+Figure 1. For the 20 selected loci on chromosome 19, the type of information being evaluated.
+
 # Business Case
 
 This tracking system could lead to enhanced drug development capabilities,
